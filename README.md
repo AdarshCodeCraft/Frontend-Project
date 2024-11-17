@@ -4,3 +4,5 @@
 <p>📜 Structured HTML: Organized and semantic elements for clarity and SEO.</p>
 <p>🎉 Dynamic Styling: Using CSS for animations, transitions, and hover effects.</p>
 <p>📱 Responsive Behavior: Adaptive to screen sizes for an optimal user experience.</p>
+<h3>📸 Screenshots</h3>
+
